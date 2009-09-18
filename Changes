@@ -1,0 +1,5 @@
+Revision history for waitcond
+
+0.31    20090918
+        First attempt at module-style CPAN packaging (the actual code is still identical to 0.2.2).
+

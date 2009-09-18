@@ -1,0 +1,7 @@
+^\.git/
+^\.cvs/
+^_build/
+^blib/
+^Build$
+^\.cvsignore$
+^[^/]*.tar.gz$

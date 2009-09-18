@@ -1,0 +1,19 @@
+---
+name: waitcond
+version: 0.31
+author:
+  - 'Peter Jakobi <jakobi@acm.org>'
+abstract: |-
+  Test or wait for event combinations like idleness, file or
+  process creation/termination.
+license: gpl
+resources:
+  license: http://opensource.org/licenses/gpl-license.php
+configure_requires:
+  Module::Build: 0.2701
+build_requires:
+  Module::Build: 0.2701
+generated_by: Module::Build version 0.280801
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2

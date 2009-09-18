@@ -1,0 +1,11 @@
+Build.PL
+Changes
+MANIFEST
+MANIFEST.SKIP
+README
+bin/waitcond
+t/waitcond.t
+t/pod-coverage.t
+t/pod.t
+Makefile.PL
+META.yml
