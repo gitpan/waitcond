@@ -1,6 +1,6 @@
 ---
 name: waitcond
-version: 0.31
+version: 0.32
 author:
   - 'Peter Jakobi <jakobi@acm.org>'
 abstract: |-

@@ -1,15 +1,17 @@
-waitcond
+Waitcond
+========
 
-The README is used to introduce the module and provide instructions on
-how to install the module, any machine dependencies it may have (for
-example C compilers and installed libraries) and any other information
-that should be provided before the module is installed.
+Test  or  wait for event combinations like idleness, file  or  process
+creation/termination.  For  further information, invoke  with  --help.
 
-A README file is required for CPAN modules since CPAN extracts the README
-file from a module distribution so that people browsing the archive
-can use it to get an idea of the module's uses. It is usually a good idea
-to provide version information here so that people can decide whether
-fixes for the module are worth downloading.
+The   homepage,   git  repository  and  tracker  can   be   found   at
+jakobi.github.com/script-archive-doc/
+
+To install, just drop waitcond into your path. Of course, you can also
+check or use the standard CPAN urls and commands.
+
+
+==
 
 
 INSTALLATION
@@ -20,6 +22,7 @@ To install this module, run the following commands:
 	./Build
 	./Build test
 	./Build install
+
 
 SUPPORT AND DOCUMENTATION
 
@@ -47,6 +50,5 @@ COPYRIGHT AND LICENCE
 
 Copyright (C) 2009 Peter Jakobi
 
-This program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself.
+Made available under the GPL, version 3.
 
